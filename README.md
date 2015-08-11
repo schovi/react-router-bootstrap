@@ -1,3 +1,7 @@
+# IMPORTIMPORTANT
+This fork is only for react-router 1.0.0 +
+Original [repository](https://github.com/react-bootstrap/react-router-bootstrap)
+
 # react-router-bootstrap
 
 [![Build Status](https://travis-ci.org/react-bootstrap/react-router-bootstrap.svg?branch=master)](https://travis-ci.org/react-bootstrap/react-router-bootstrap)
