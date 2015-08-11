@@ -1,5 +1,5 @@
 {
-  "name": "react-router-bootstrap",
+  "name": "react-router-1-bootstrap",
   "version": "0.18.1",
   "description": "react-router and react-bootstrap compatible components",
   "main": "./lib/index.js",
